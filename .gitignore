@@ -1,0 +1,4 @@
+dist
+.env
+.yarn-integrity
+node_modules
